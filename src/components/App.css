@@ -5,10 +5,12 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Source Sans Pro", sans-serif;
+background: rgb(34, 14, 109);
 }
 
 html {
   font-size: 62.5%;
+  
 }
 
 .main-div {
